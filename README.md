@@ -41,3 +41,5 @@ public class SocketHandlerCustom implements SocketHandler {
 }
 
 ```
+
+How to spin up project quickly is on the [blog](https://sinanbir.com/java-async-server-socket-example/)
